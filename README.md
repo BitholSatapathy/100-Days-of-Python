@@ -51,11 +51,17 @@ Each day has its own folder containing the code, notes, and projects for that da
    ```bash
    python filename.py
 
-📌 Acknowledgements
-Angela Yu for the amazing Python course on Udemy
-100 Days of Code community for motivation and support
 
-🧑‍💻 Author
-Bithol Satapathy
-GitHub: BitholSatapathy
-LinkedIn: www.linkedin.com/in/bithol-satapathy-3aaa99321
+---
+
+## 📌 Acknowledgements
+- Angela Yu for the amazing Python course on Udemy
+- 100 Days of Code community for motivation and support
+
+
+---
+
+## 🧑‍💻 Author
+- Bithol Satapathy
+- GitHub: BitholSatapathy
+- LinkedIn: www.linkedin.com/in/bithol-satapathy-3aaa99321
