@@ -28,7 +28,7 @@
 # while some_Thing_is_true:
 #     #do that repeatedly
 
-#infinte loop
+#infinite loop
 while 5>3:
     #do this
     #do this
