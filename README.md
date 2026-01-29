@@ -1,6 +1,6 @@
 # 100 Days of Python - Angela Yu (Udemy)
 
-![Progress](https://img.shields.io/badge/Progress-7%25-orange)
+![Progress](https://img.shields.io/badge/Progress-8%25-orange)
 
 Welcome to my learning repository for the **100 Days of Code: The Complete Python Pro Bootcamp** by **Angela Yu** on Udemy.  
 This repo contains all the projects, exercises, and notes I complete as I progress through the course.
@@ -53,6 +53,12 @@ Each day has its own folder containing the code, notes, and projects for that da
 - **Features:** 6-life system, ASCII art, word database, modular code
 - **Skills:** While loops, list management, file organization, game state
 - **Files:** 5 development steps + final polished version
+
+#### Day 8: Functions with Inputs 🔐
+- **Project:** Caesar Cipher  
+- **Features:** Encryption/decryption, ASCII art logo, handle non-alphabetic characters
+- **Skills:** Function parameters, modular programming, mathematical operations
+- **Files:** Main cipher program, ASCII art module, practice exercises
 
 
 
